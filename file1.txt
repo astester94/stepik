@@ -1,8 +1,7 @@
 test line for branch
 111
-
 456
 789.
 add line
 new branch line
-new branch line
+GUI line1
